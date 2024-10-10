@@ -1,7 +1,7 @@
 ## Hi there 
 
 <h1 align="center">👋, I'm sepideh</h1>
-<h3 align="center">i like to create app and websites</h3>
+<h3 align="center">i like to create apps and websites</h3>
 
 - 🔭 I’m currently working on **my first goal tracker app**
 
