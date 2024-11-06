@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sepidehmarzi@gmail.com**
 
-- ⚡ Fun fact **i started learning how to code when i was 14**
+- ⚡ Fun fact **I started learning coding because I was curious about how apps work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
