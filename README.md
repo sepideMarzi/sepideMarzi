@@ -3,9 +3,8 @@
 <h1 align="center">👋, I'm sepideh</h1>
 <h3 align="center">i like to create apps and websites</h3>
 
-- 🔭 I’m currently working on **my first goal tracker app**
-
-- 📫 How to reach me **sepidehmarzi@gmail.com**
+- 🚀 Passionate student at Seneca College, pursuing Computer Programming with a 3.6 GPA
+- -📱 Experience in software devolopement and iOS app development
 
 - ⚡ Fun fact **I started learning coding because I was curious about how apps work**
 
