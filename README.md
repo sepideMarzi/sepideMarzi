@@ -6,7 +6,6 @@
 - 🚀 Passionate student at Seneca College, pursuing Computer Programming with a 3.6 GPA
 - -📱 Experience in software devolopement and iOS app development
 
-- ⚡ Fun fact **I started learning coding because I was curious about how apps work**
 
 
 
