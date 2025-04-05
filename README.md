@@ -3,7 +3,7 @@
 <h1 align="center">👋, I'm sepideh</h1>
 <h3 align="center">i like to create apps and websites</h3>
 
-- 🚀 Passionate student at Seneca College, pursuing Computer Programming with a 3.6 GPA
+- 🚀 Passionate student at Seneca College, pursuing Computer Programming with a 3.5 GPA
 - -📱 Experience in software devolopement and iOS app development
 
 
